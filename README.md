@@ -1,2 +1,2 @@
-# TarotFali
+# TarotFaliUygulamasi
 Mantis Staj Bitirme Projesi
